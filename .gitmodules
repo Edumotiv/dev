@@ -1,0 +1,3 @@
+[submodule "itop-toolkit-community"]
+	path = itop-toolkit-community
+	url = https://github.com/Combodo/itop-toolkit-community
